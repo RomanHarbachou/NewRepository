@@ -5,9 +5,9 @@ on this their chosen battle fiekd
 Form the lines 
 Sheild by shield
 
-<<<<<<< HEAD
+
 some content
 Ooo green eye taxi!!!
-=======
->>>>>>> feature2
+
+Your drive me there!!!!
 
